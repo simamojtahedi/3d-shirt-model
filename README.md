@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# 3d Shirt Model
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![3d-shirt](https://github.com/simamojtahedi/3d-shirt-model/assets/64223524/215f59c9-fda7-404a-88db-0aefa08d2f7b)
 
-## Available Scripts
 
-In the project directory, you can run:
+The innovative 3D Shirt Customizer offers an immersive experience, utilizing cutting-edge technologies for unparalleled virtual product customization. \
+Developed with **ThreeJS**, it harnesses the capabilities of a powerful 3D graphics library to render and animate intricate 3D models. \
+**React Three Fiber** enriches the environment by seamlessly integrating ThreeJS within **React**, resulting in stunning 3D graphics. \
+**TailwindCSS** empowers the project with a streamlined and responsive design framework, while **Framer Motion** enhances the user experience through captivating animations.
 
-### `npm start`
+This application facilitates loading, creation, and customization of visually appealing 3D models, complete with dynamic lighting and precise camera positioning. \
+By incorporating higher-order components (HOCs) and industry-standard practices, the codebase ensures reusability and scalability. \
+The capability to introduce custom colors and file formats adds a personalized touch to the experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Users can conveniently download the resulting t-shirt model image, ensuring a tangible outcome of their customization efforts. \
+Furthermore, the application is meticulously designed for responsive performance across various devices, guaranteeing an optimal experience for all users.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In summary, the 3D Shirt Customizer seamlessly blends the capabilities of **ThreeJS**, **React Three Fiber**, **TailwindCSS**, and **Framer Motion** to deliver an engaging and dynamic platform. \
+It empowers users to create, customize, and visualize 3D models with unprecedented realism, making virtual product customization an interactive and visually captivating endeavor.
